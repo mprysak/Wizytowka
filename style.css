@@ -14,10 +14,6 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('img/Hiroshige-Wiry-w-Naruto-detal2.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 @media only screen and (max-width: 1920px){
